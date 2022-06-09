@@ -6,8 +6,8 @@ ABOUT APP:
 
 This is a simple React App which shows quotations from a quotation API. The React Context is used in the app.
 # ReactJS
-#ContextAPI
-#Simple API Project
+# ContextAPI
+# Simple API Project
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
